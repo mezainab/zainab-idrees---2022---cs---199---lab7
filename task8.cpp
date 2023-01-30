@@ -4,7 +4,7 @@ using namespace std;
 float calculateMoney(int age, float priceToy, float priceWashingMachine);
 main()
 {
-    int age, priceToy, priceWashingMachine;
+    float age, priceToy, priceWashingMachine;
     float result = 0;
     cout << "Enter Lily's age: ";
     cin >> age;
